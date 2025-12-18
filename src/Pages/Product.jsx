@@ -13,9 +13,7 @@ const Products = () => {
       {/* --- HERO SECTION --- */}
       <section className="w-full bg-[#0052CC] text-white py-20 px-6">
         <div className="container mx-auto text-center space-y-6">
-          <div className="inline-block bg-orange-500 text-white text-xs font-bold px-3 py-1 rounded-full uppercase tracking-widest mb-2">
-            Flagship Product
-          </div>
+          
           <h1 className="text-4xl md:text-6xl font-extrabold tracking-tight">
             XPLOOR
           </h1>
@@ -23,8 +21,7 @@ const Products = () => {
             Smart Long-Term Rental Platform: Simplifying Rentals in India.
           </p>
           <p className="max-w-2xl mx-auto text-blue-200 leading-relaxed">
-            Finding reliable long-term rental accommodation is often fragmented. 
-            XPLOOR solves this with a trust-first, AI-driven ecosystem designed specifically for long-term stays.
+            We are building XploorHub, a smart long-term rental platform that makes finding and listing homes easier, safer, and more efficient. With AI-driven tenant–landlord matching, verified listings, and a focus on students, professionals, and families, we aim to transform the rental experience in India.
           </p>
         </div>
       </section>

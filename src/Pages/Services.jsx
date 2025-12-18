@@ -143,7 +143,7 @@ const Services = () => {
           </p>
           <div className="pt-4">
             <Link 
-              to="/get-quote" 
+              to="/contact" 
               className="bg-white text-orange-600 px-10 py-4 rounded-full font-bold text-lg hover:bg-orange-50 transition-all shadow-xl inline-flex items-center gap-2"
             >
               Get A Free Quote <ArrowRight size={20} />
